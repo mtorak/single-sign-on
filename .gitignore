@@ -1,0 +1,12 @@
+target/
+.idea/
+logs/
+*.iml
+uploaded-files/
+lib/
+/*.log
+/doc/docker/diyasor-engine-0.0.1-SNAPSHOT-exec.jar
+/doc/docker/diyasor-web-0.0.1-SNAPSHOT.jar
+/doc/docker/diyasor_workspace_content.zip
+/doc/docker/SWAT12411007214789578874.ABBYY.ActivationToken
+/doc/docker/FRE12_R5U1_Linux_x64_build_12_5_12_26023_part_1366_28.sh
